@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✅ Atualmente estudando programação | Currently studying programming<br>🌱 Estudando Python e JavaScript | Studying Python and JavaScript<br>🎯 Em transição de carreira | Transitioning careers<br>📫 E-mail pessoal: victorjls,bezerra@gmail.com | Personal e-mail: victorjls,bezerra@gmail.com</p>
+<p align="left">✅ Atualmente estudando programação | Currently studying programming<br>🌱 Estudando Python e JavaScript | Studying Python and JavaScript<br>🎯 Em transição de carreira | Transitioning careers<br>📫 E-mail pessoal: victorjls.bezerra@gmail.com | Personal e-mail: victorjls.bezerra@gmail.com</p>
 
 ###
 
