@@ -1,8 +1,8 @@
-<h1 align="left">Olá, eu sou Victor Julius | Hi there, i'm Victor Julius!</h1>
+<h1 align="left">Hi there, i'm Victor Julius!</h1>
 
 <p align="center">
 
-<p align="left">✅ Atualmente estudando programação | Currently studying programming<br>🌱 Estudando Python e JavaScript | Studying Python and JavaScript<br>🎯 Em transição de carreira | Transitioning careers<br>📫 E-mail pessoal: victorjls.bezerra@gmail.com | Personal e-mail: victorjls.bezerra@gmail.com</p>
+<p align="left">Currently studying programming<br> Studying Python and JavaScript<br> Transitioning careers<br> Personal e-mail: victorjls.bezerra@gmail.com</p>
 
 ###
 
