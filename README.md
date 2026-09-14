@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<p align="left">Currently studying programming<br> Studying Python and JavaScript<br> Transitioning careers<br> Personal e-mail: victorjls.bezerra@gmail.com</p>
+<p align="left">Currently studying programming<br> Transitioning careers<br> Personal e-mail: victorjls.bezerra@gmail.com</p>
 
 ###
 
