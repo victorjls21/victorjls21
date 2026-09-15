@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:011c85,100:0069cc&height=190&section=header&text=Victor+Julius&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Gabriel Garabedian"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2be2,100:9400D3&height=190&section=header&text=Victor+Julius&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Victor Julius"/>
 
 <br/>
 
